@@ -1,0 +1,7 @@
+arrow==0.10.0
+click==6.7
+humanfriendly==2.3.2
+open-humans-api==0.1.2.3
+python-dateutil==2.6.0
+requests==2.13.0
+six==1.10.0
